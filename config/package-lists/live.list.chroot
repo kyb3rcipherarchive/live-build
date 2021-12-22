@@ -1,0 +1,4 @@
+# Debian live-build default
+live-boot
+live-config
+live-config-systemd

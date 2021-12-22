@@ -1,1 +1,13 @@
 Korreliah Linux live-build config scripts
+
+Requirements:
+* Debian
+* live-build (package)
+
+Build command:
+lb clean
+lb config
+lb build
+
+Release: "Before of Pre-alpha"
+Notes: Execute all with root permissions, you can use sudo
