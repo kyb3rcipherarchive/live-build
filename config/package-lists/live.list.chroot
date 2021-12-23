@@ -1,10 +1,8 @@
-# Debian live-build default
+# Live image packages
 live-boot
 live-config
 live-config-systemd
 
-# Installers
-debian-installer
-debian-installer-launcher
+# Installer
 calamares
 calamares-settings-debian
