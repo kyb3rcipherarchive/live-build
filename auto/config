@@ -1,2 +1,3 @@
 lb config noauto \
-	--debian-installer "live"
+	--debian-installer "live" \
+	--bootappend-live "username=korreliah hostname=korreliah"
