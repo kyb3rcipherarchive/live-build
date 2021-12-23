@@ -2,3 +2,8 @@
 live-boot
 live-config
 live-config-systemd
+
+# Installers
+calamares
+calamares-settings-debian
+debian-installer-launcher
