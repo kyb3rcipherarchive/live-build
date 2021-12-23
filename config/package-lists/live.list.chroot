@@ -4,6 +4,7 @@ live-config
 live-config-systemd
 
 # Installers
+debian-installer
+debian-installer-launcher
 calamares
 calamares-settings-debian
-debian-installer-launcher
