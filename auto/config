@@ -1,0 +1,2 @@
+lb config noauto \
+	--debian-installer "live"
