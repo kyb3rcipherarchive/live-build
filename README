@@ -5,9 +5,9 @@ Requirements:
 * live-build (package)
 
 Build command:
-lb clean
+sudo lb clean
 lb config
-lb build
+sudo lb build
 
 Release: "Before of Pre-alpha"
 Notes: Execute all with root permissions, you can use sudo
