@@ -1,0 +1,20 @@
+# build files
+.build
+cache
+binary
+binary.modified_timestamps
+chroot.files
+chroot.packages.install
+chroot.packages.live
+chroot/
+config/binary
+config/bootstrap
+config/chroot
+config/common
+config/hooks
+config/source
+*.files
+*.zsync
+*.packages
+*.contents
+*.hybrid.iso
